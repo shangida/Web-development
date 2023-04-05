@@ -1,0 +1,8 @@
+
+Block Element: একটি block element সর্বদা একটি নতুন লাইনে শুরু হয় ।
+              একটি block element উপাদান whidth গ্রহণ করে ।
+Inline Element: একটি inline element একটি নতুন লাইন শুরু হয় না।
+		একটি inline element শুধুমাত্র যতটা প্রয়োজন ততটা  whidth (প্রস্থ )নেয়।
+
+HTML Responsive : Responsive web design হলো ওয়েব পেজ তৈরি করা যা সব ডিভাইসে ভালো দেখায়!
+                একটি প্রতিক্রিয়াশীল ওয়েব ডিজাইন স্বয়ংক্রিয়ভাবে বিভিন্ন স্ক্রীনের আকার।
